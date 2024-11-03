@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(201, 138, 246);
+}
+
+h1 {
+  color: teal;
+}
+
+#session-length {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#break-session {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#break-length {
+  margin-top: 69px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#start {
+  background-color: blueviolet;
+}
+
+#stop {
+  background-color: gold;
+}
+
+#reset {
+  background-color: cyan;
+}
+
+button {
+  background-color: lightgreen;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 20px;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
